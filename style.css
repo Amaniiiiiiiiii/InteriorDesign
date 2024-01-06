@@ -88,7 +88,8 @@ header{
 
 .logo img{
     object-fit:contain;
-    max-height: 35px;
+    max-height: 65px;
+    max-width: 6000px;
 }
 
 .toggleMenu{
